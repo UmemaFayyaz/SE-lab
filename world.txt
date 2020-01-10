@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Pakistan.  We live in Pakistan.
+=======
+This is Pakistan.  We live in Pakistan in Karachi.
+>>>>>>> branch-v
